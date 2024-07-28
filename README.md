@@ -1,16 +1,22 @@
-## Hi there I am Mujib👋
+## Hi there I am Mujib 👋
 
-<!--
-**Muj18/Muj18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a DevOps Engineer with a passion for learning new things 
 
-Here are some ideas to get you started:
+About Me
+🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DevOps Tools: Docker, Kubernetes, Ansible, Terraform
+Cloud Providers: AWS, GCP
+Programming Languages: Bash
+CI/CD: Setting up and maintaining continuous integration and continuous deployment pipelines, Github Actions
+Infrastructure as Code: Terraform
+📚 Always Learning: I'm continuously exploring new technologies to enhance my skill set and stay updated with industry trends
+
+Hobbies
+
+Brazilian Jiu-Jitsu 
+Football
+Cycling
+Movies
+Spending time with my kids - All in this order 
+Kidding :) 
